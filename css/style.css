@@ -1,14 +1,54 @@
 html {
-	font-size: 18px;
+	font-size: 22px;
 	font-family: sans-serif;
 }
 
 h1 {
 	font-size: 1.5rem;
-	color: blueviolet;
+	color: crimson;
+	text-align: center;
 }
 
 h2 {
 	font-size: 1.25rem;
 	color: aqua;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	font-weight: bold;
+	color: chocolate;
+}
+
+ul {
+	text-align: center;
+	list-style: none;
+	color: darkgreen;
+	font-weight: bold;
+}
+
+div {
+	text-align: center;
+}
+
+img{
+	margin-left: 40%;
+}
+
+.imagem-souls {
+	margin-left: 43%;
+}
+
+.fundo-pagina-musica {
+	background: url("/images/fundo-musicas.jpeg") 50px 250px;
+}
+
+.fundo-jogos {
+	background: url(/images/fundo-jogos.jpeg);
+	background-size: 150px;
+}
+
+.lista-musicas > li {
+	color: brown;
 }
