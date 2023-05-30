@@ -1,0 +1,14 @@
+html {
+	font-size: 18px;
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 1.5rem;
+	color: blueviolet;
+}
+
+h2 {
+	font-size: 1.25rem;
+	color: aqua;
+}
